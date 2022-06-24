@@ -1,0 +1,21 @@
+Linux tiene 3 partes principales:
+
+    Kernel: Es el núcleo del Sistema Operativo y se gestionan los recursos de hardware como la memoria, el procesamiento y los dispositivos periféricos conectados al computador.
+
+    Shell: Es el interprete, un programa con una interfaz de usuario permitiendo ejecutar las aplicaciones en un lenguaje de alto nivel y procesarlas en un lenguaje de bajo nivel para manipular y controlar aplicaciones y programas como nuestro proyecto.
+
+    Aplicaciones: Son las aplicaciones con las que interactuamos día a día.
+Tipos de Shells:
+
+SH
+KSH
+CSH
+BASH
+
+Algunos comandos para conocer información sobre el resto de comandos:
+
+man [comando]
+info [comando]
+
+man ls -> Para ver que hace cada comando en la terminal
+info <Comando que se quiere conocer> -> comando en especifico que se quiere conocer (ex. info ls)
